@@ -13,22 +13,28 @@
 ## 🛠️ Tech Stack  
 
 ### Backend  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![Django REST](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+</p>
 
 ### AI & Machine Learning  
-![GPT-4](https://img.shields.io/badge/-GPT--4-412991?style=flat&logo=openai&logoColor=white)  
-![Gemini 1.5](https://img.shields.io/badge/-Gemini%201.5-4285F4?style=flat&logo=google&logoColor=white)  
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=python&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/-GPT--4-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gemini%201.5-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white" />
+</p>
 
 ### Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+</p>
 
 ---
 
@@ -44,4 +50,4 @@
 ## 🌍 Connect with me  
 
 📧 **Email:** [lucas-santos-teo@hotmail.com](mailto:lucas-santos-teo@hotmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/lucas-teotonio-25b2571a0](https://www.linkedin.com/in/lucas-teotonio-25b2571a0/)  
+🔗 **LinkedIn:** [linkedin.com/in/lucas-teotonio-25b2571a0](https://www.linkedin.com/in/lucas-teotonio-25b2571a0/)
