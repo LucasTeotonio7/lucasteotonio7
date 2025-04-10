@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 </p>
 
-### AI & Machine Learning  
+### GenAI 
 <p>
   <img src="https://img.shields.io/badge/-GPT--4-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gemini%201.5-4285F4?style=flat&logo=google&logoColor=white" />
