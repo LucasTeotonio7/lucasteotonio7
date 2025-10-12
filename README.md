@@ -4,7 +4,7 @@
 
 🧠 Currently working with **Generative AI**, I've used **Gemini 1.5** models and am currently working with **GPT-4**. I also have experience with **LangChain** for building AI-powered applications.  
 
-🌍 On the frontend, I'm proficient in **HTML, CSS, JavaScript**, and have experience with **Angular** and **jQuery**. I enjoy understanding the full stack of applications, from databases to the user interface.  
+🌍 On the frontend, I'm proficient in **HTML, CSS, JavaScript** and **jQuery**. I enjoy understanding the full stack of applications, from databases to the user interface.  
 
 🚀 Always learning and building efficient solutions!  
 
@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
 </p>
 
